@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter, Switch, Route } from "react-router-dom";
 import Header from "./components/Header.js"
 import Main from "./components/Main.js"
 import Footer from "./components/Footer.js"
@@ -8,7 +8,7 @@ import Contact from "./components/Contact.js"
 function App() {
   return (
     <>
-      <Router>
+      <HashRouter>
         <Header />
         <Switch>
           <Route exact path="/" render={()=>{
@@ -26,7 +26,7 @@ function App() {
           </Route>
         </Switch>
         <Footer />
-      </Router>
+      </HashRouter>
     </>
   );
 }
