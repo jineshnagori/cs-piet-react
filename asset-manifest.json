@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/cs-piet-react/static/js/main.5d7d4e20.chunk.js",
+    "main.js.map": "/cs-piet-react/static/js/main.5d7d4e20.chunk.js.map",
+    "runtime-main.js": "/cs-piet-react/static/js/runtime-main.e06894d5.js",
+    "runtime-main.js.map": "/cs-piet-react/static/js/runtime-main.e06894d5.js.map",
+    "static/js/2.edb082c5.chunk.js": "/cs-piet-react/static/js/2.edb082c5.chunk.js",
+    "static/js/2.edb082c5.chunk.js.map": "/cs-piet-react/static/js/2.edb082c5.chunk.js.map",
+    "static/js/3.e65ab06e.chunk.js": "/cs-piet-react/static/js/3.e65ab06e.chunk.js",
+    "static/js/3.e65ab06e.chunk.js.map": "/cs-piet-react/static/js/3.e65ab06e.chunk.js.map",
+    "index.html": "/cs-piet-react/index.html",
+    "static/js/2.edb082c5.chunk.js.LICENSE.txt": "/cs-piet-react/static/js/2.edb082c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e06894d5.js",
+    "static/js/2.edb082c5.chunk.js",
+    "static/js/main.5d7d4e20.chunk.js"
+  ]
+}
